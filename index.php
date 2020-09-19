@@ -11,14 +11,16 @@
 <div class="container">
   <div class="row">
     <div class="col-sm navbar" id="sitehead">
-      <div class="col-sm navbar-brand"></div>
+      <div class="col-sm navbar-brand">
+        <a href="#"><img src="icon.png" title="Tim Rodgers logo"></a>
+      </div>
       <div class="col-sm sitenav"></div>
     </div>
   </div>
 </div>
 
-<div class="container">
-  <div class="jumbotron"></div>
+<div class="jumbotron jumbotron-fluid">
+  <div class="container"></div>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
