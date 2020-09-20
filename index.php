@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
-  <link rel="icon" href="images/plug-sideways.svg" type="image/svg" sizes="16x16">
+  <link rel="icon" href="https://raw.githubusercontent.com/timbocf/portfolio/no-jumbotron/plug-solid.svg" type="image/svg" sizes="16x16">
   <title>Tim Rodgers-Web Developer</title>
   <script src="https://kit.fontawesome.com/cf1fb4309f.js" crossorigin="anonymous"></script>
 </head>
