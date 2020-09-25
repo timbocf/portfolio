@@ -27,8 +27,8 @@
         -->
       </div>
       <div class="navbar-end">
-        <a class="navbar-item" href="#about">About</a>
         <a class="navbar-item" href="#work">Work</a>
+        <a class="navbar-item" href="#about">About</a>
         <div class="navbar-item">
           <a href="#contact" class="contact-button" id="contact-button">Contact</a>
         </div>
@@ -48,6 +48,29 @@
       </div>
   </div>
 </div>
+
+<div id="about">
+    <div class="container">
+        <h1>Hi,</h1>
+        <h3>I'm Tim Rodgers</h3>
+        <p>I create things out of code.  I have worked directly with clients to enhance their web presence and provide advertising solutions for their businesses. From models and bands to real estate agents and world-class HR software companies, I meet challenges head-on. From responsive, user-friendly  WordPress custom templates to simple 5-page sites for churches, I provide what businesses need to succeed in today's competitive marketplace. If I don't know it, I'll learn it!</p>
+    </div>
+</div>
+
+<div id="contact">
+    <div class="container">
+        <h1>Feel free to contact me.</h1>
+        <h3>Tim Rodgers</h3>
+        <h3>
+            <a href="mailto: timbocf@gmail.com">timbocf@gmail.com</a>
+        </h3>
+        <h3>
+            <a href="tel: 903-237-8475">903-237-8475</a>
+        </h3>
+    </div>
+</div>
+
+
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
 
