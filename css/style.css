@@ -8,6 +8,20 @@ body {
   border: 0;
 }
 
+a {
+  text-decoration: none;
+  color: #dddddd;
+}
+
+a:hover, a:active {
+  color: #999999;
+  text-decoration: none;
+}
+
+h1 {
+  margin-bottom: 10vh;
+}
+
 #sitehead {
   height: 100px;
   width: 100%;
@@ -76,8 +90,9 @@ a.navbar-item:hover, a.navbar-item:active {
   height: 100%;
   position: relative;
   background-image: url('../images/Tim-Rodgers-Web-Developer.jpg');
-  background-size: cover;
+  background-size: 100%;
   background-repeat: no-repeat;
+  background-position: top center;
 }
 
 .btn {
@@ -102,4 +117,18 @@ a.navbar-item:hover, a.navbar-item:active {
 
 #rightbtn {
   right: 0;
+}
+
+#about, #contact {
+  height: 100%;
+  margin: 3vh;
+  padding: 10vh;
+  /* border: 1px solid #ddd; */
+}
+
+#contact {
+  width: 100%;
+  margin: 3vh 0;
+  color: #ffffff;
+  background-color: #000000;
 }
