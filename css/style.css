@@ -64,3 +64,42 @@ a.navbar-item:hover, a.navbar-item:active {
   color: #ffffff;
   background-color: #000000;
 }
+
+#slider-wrap {
+  width: 80%;
+  height: 70vh;
+  margin: auto;
+}
+
+#slider {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-image: url('../images/Tim-Rodgers-Web-Developer.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.btn {
+  height: 100%;
+  width: 10rem;
+  color: #000000;
+  position: absolute;
+  top: 0;
+  font-size: 2rem;
+  opacity: 0;
+  background-color: #999999;
+}
+
+.btn:hover, .btn:active {
+  text-decoration: none;
+  opacity: 0.2;
+}
+
+#leftbtn {
+  left: 0;
+}
+
+#rightbtn {
+  right: 0;
+}
