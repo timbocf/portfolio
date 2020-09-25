@@ -39,7 +39,14 @@
 
 
 <div class="container">
-  <div id="result"></div>
+  <div id="work">
+      <div id="slider-wrap">
+          <div id="slider">
+              <button id="leftbtn" class="btn">&#60;</button>
+              <button id="rightbtn" class="btn">&#62;</button>
+          </div>
+      </div>
+  </div>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
