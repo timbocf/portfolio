@@ -7,6 +7,11 @@ body {
   margin: 0;
   padding: 0;
   border: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
 }
 
 a {
@@ -21,6 +26,10 @@ a:hover, a:active {
 
 h1 {
   margin-bottom: 10vh;
+}
+
+.has-border { 
+  border: 2px solid #ddd; 
 }
 
 #sitehead {
@@ -55,7 +64,7 @@ h1 {
 }
 
 .navbar {
-  font-size: 1.2em;
+  font-size: 2em;
 }
 
 .navbar-item {
@@ -94,7 +103,8 @@ a.navbar-item:hover, a.navbar-item:active {
   width: 100%;
   height: 100%;
   position: relative;
-  background-image: url('../images/Tim-Rodgers-Web-Developer.jpg');
+  /* background-image: url('../images/Tim-Rodgers-Web-Developer.jpg'); */
+  background-image: url('../images/CSI.png');
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: top center;
@@ -128,7 +138,6 @@ a.navbar-item:hover, a.navbar-item:active {
   height: 100%;
   margin: 3vh;
   padding: 10vh;
-  /* border: 1px solid #ddd; */
 }
 
 #contact {
