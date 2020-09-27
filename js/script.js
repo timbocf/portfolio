@@ -1,5 +1,5 @@
 var i = 0;
-var images = ['Tim-Rodgers-Web-Developer.jpg', 'DeborahSparks_HomePage_10_14_14.jpg', '4him.png', 'classic-stitch.png', 'CSI.png', 'fitness-divas.png', 'gym-101.png', 'new-life-home.png', 'revee-lamar.png', 'riobata-home.png', 'Set-Free.png', 'setfree-landing-page.png', 'Set-Free-layout.jpg'];
+var images = ['CSI.png', /* 'Tim-Rodgers-Web-Developer.jpg', */ 'icrm.jpg', 'DeborahSparks_HomePage_10_14_14.jpg', '4him.png', 'classic-stitch.png', 'fitness-divas.png', 'gym-101.png', 'new-life-home.png', 'revee-lamar.png', 'riobata-home.png', 'Set-Free.png', 'setfree-landing-page.png', 'Set-Free-layout.jpg'];
 
 $(function(){
 	$('#leftbtn').click(function(){
