@@ -80,6 +80,10 @@ a.navbar-item:hover, a.navbar-item:active {
   background-color: #000000;
 }
 
+#work {
+  padding-top: 100px;
+}
+
 #slider-wrap {
   width: 80%;
   height: 70vh;
